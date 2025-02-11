@@ -1,6 +1,8 @@
 # 🏋️‍♂️Calories Tracker
 
-¡Bienvenido a este **Contador de Calorías**! Se trata de una aplicación sencilla desarrollada con React.js y Tailwind CSS que te permite llevar un registro de tus calorías diarias. Puedes añadir alimentos para sumar calorías o ejercicios para restarlas, y mantener un seguimiento de tu balance calórico.
+¡Bienvenido a este **Contador de Calorías**! Se trata de una aplicación sencilla desarrollada con React.js y Tailwind CSS que te permite llevar un registro de tus calorías diarias. Puedes añadir alimentos para sumar calorías o ejercicios para restarlas, y mantener un seguimiento de tu balance calórico. 
+
+ https://play-calories-tracker.netlify.app/
 
 ## ✨ Características
 
